@@ -6,13 +6,13 @@ var userLogation = prompt("Qayerda yashaysiz?");
 var studyWork = prompt("O'qisizmi yoki ishlaysizmi?");
 var userHobby= prompt("Nimaga qiziqasiz?");
 var userDo = prompt("Hozirda nima bilan bandsiz?");
-var userHappy = prompt("Siz baxtlimisiz?");
-var userFamily= prompt("Oilada necha kishisiz?");
+var userHappy = prompt("Siz baxtlimisiz?🥳");
+var userFamily= prompt("Oilada necha kishisiz?👨‍👩‍👧‍👦");
 var userCHild= prompt("Oilada nechinchi farzandsiz?");
-var userRelatives= prompt("Qarindoshlaringiz bilan yaxshi aloqadamisiz?");
-var userColor = prompt("Qaysi rang yoqadi?");
-var userCar = prompt("Mashina hayday olasizmi?");
-var userOpinion = prompt("So'rovnoma haqida fikringiz?");
+var userRelatives= prompt("Qarindoshlaringiz bilan yaxshi aloqadamisiz?👨‍👩‍👧‍👦");
+var userColor = prompt("Qaysi rang yoqadi?🟥🟧🟨🟩🟦🟪⬛️⬜️🟫");
+var userCar = prompt("Mashina hayday olasizmi?🚘");
+var userOpinion = prompt("So'rovnoma haqida fikringiz?😊");
 
 
 var result = 
